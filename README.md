@@ -2,7 +2,7 @@
 
 Create a news app that shows the news list in the app.
 
-Highlights:
+**Highlights:**
 
 1. Create the code using MVC Pattern.
 2. Fetching the data from the server and shows using the table view.
