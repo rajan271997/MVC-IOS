@@ -10,6 +10,9 @@ Create a news app that shows the news list in the app.
 4. When the user select the news artice, open the browser to show the news details.
 
 
+If you to watch the MVC pattern in swift, check out the link : 
+https://youtu.be/h5nVnvufaKs
+
 Share to everyone.
 
 Thanks
